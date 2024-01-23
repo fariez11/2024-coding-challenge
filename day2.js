@@ -1,4 +1,5 @@
 // WPU Coding Challenge 2024
+// (Reverse Squence)
 // 2/336
 // https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript
 
