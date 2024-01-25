@@ -4,9 +4,11 @@
 // https://www.codewars.com/kata/53dc23c68a0c93699800041d
 
 // arrow func
+
 const smash = (words) => words.join(' ')
 
 // barbar 
+
 // function smash(words){
 //     let result = ''
 //     for (let i = 0; i < words.length; i++) {
