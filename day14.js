@@ -53,4 +53,4 @@ function getGrade3(...s){
 
 
 
-console.log(getGrade3(70,90,60));
+console.log(getGrade3(70,90,60,80));
