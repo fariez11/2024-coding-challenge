@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// Sum without highest and lowest number
+// Get the mean of an array
 // 16/336
 // https://www.codewars.com/kata/563e320cee5dddcf77000158
 
