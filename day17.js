@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// Get the mean of an array
+// Area or Perimeter
 // 17/336
 // https://www.codewars.com/kata/5ab6538b379d20ad880000ab
 
