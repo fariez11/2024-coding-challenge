@@ -33,8 +33,8 @@ function sumMix(x) {
     const sumMix1Liner = x => x.reduce((acc, curr) => acc + +curr, 0)
 
 
-// using for of
-function sumMix(x) {
+// using for of (more answers in codewars)
+function anotherSumMix(x) {
     let result = 0;
     for (let n of x) {
         result += parseInt(n);
