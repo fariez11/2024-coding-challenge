@@ -44,4 +44,4 @@ function shortRentalCarCost(day){
     // one liner
     const rental = day => day * 40 - (day >= 7 ? 50 : day >= 3 ? 20 : 0)
 
-console.log(rental(8));
+console.log(rental(6));
