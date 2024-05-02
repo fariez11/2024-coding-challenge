@@ -24,4 +24,13 @@ function monkeyCount2(n){
 
     const monkeyCount3 = monkey => Array.from({length : monkey}, (_,i) => i + 1)
 
-console.log(monkeyCount2(10));
+
+// more answer from codewars
+    // 2 variabel inisialisasi
+
+    function monkeyCount4(n) {
+        for (var i = 0, arr = []; i < n; arr.push(++i));
+        return arr;
+      }
+
+console.log(monkeyCount4(10));
