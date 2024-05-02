@@ -20,5 +20,6 @@ function doubleChar(str){
 }
 
 const doubleChar2 = str => [...str].map(el => el + el).join('')
+const doubleChar3 = str => str.split('').map(el => el + el).join('')
 
-console.log(doubleChar2('Adidas'));
+console.log(doubleChar3('Adidas'));
