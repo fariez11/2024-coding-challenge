@@ -14,6 +14,6 @@ function enough(cap, on, wait) {
 }
 
 // oneliner
-const enough1 = (cap, on, wait) => (cap >= on + wait) ? 
+const enough1 = (cap, on, wait) => (cap >= on + wait) ? 0 : wait - (cap - on)
 
 console.log(enough(100,60,50));
