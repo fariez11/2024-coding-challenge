@@ -1,5 +1,5 @@
 // WPU Coding Challenge 2024
-// Removing Elements
+// Remove Every Other
 // 29/336
 // https://www.codewars.com/kata/5769b3802ae6f8e4890009d2
 
