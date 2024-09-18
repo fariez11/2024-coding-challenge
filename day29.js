@@ -18,10 +18,10 @@ function removeEveryOther(arr){
 }
 
 // more answer from pak sandhika
-function removeEveryOther2(arr) {
-    return arr.filter((el,i) => i % 2 == 0);
-    // return arr.filter((el, i) => !(i & 1));
-}
+// function removeEveryOther2(arr) {
+//     return arr.filter((el,i) => i % 2 == 0);
+//     // return arr.filter((el, i) => !(i & 1));
+// }
     // oneliner
     removeEveryOther2 = (arr) => arr.filter((el, i) => i % 2 == 0)
 
